@@ -1,0 +1,12 @@
+{
+  "name": "wild-series",
+  "version": "1.0.0",
+  "description": "Projet Symfo",
+  "main": "index.js",
+  "repository": "https://github.com/Quentin-BURTY/wild-series.git",
+  "author": "Quentin <quentin.burty@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@symfony/webpack-encore": "^1.3.0"
+  }
+}
